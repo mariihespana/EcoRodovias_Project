@@ -1,9 +1,9 @@
 # EcoRodovias_Project
 
--> Oque faz ? 
+-> Oque faz ? \n
 Esse projeto atua com web scraping do site da Nova Dutra e da coleta do status das pistas e armazenamento dos dados em um arquivo .xslx já separado nas principais colunas a serem utilizadas em análises.
 
--> Objetivos pessoais
+-> Objetivos pessoais \n
 Esse projeto foi desenvolvido afim de aplicar os seguintes módulos em python:
 -> Selenium (Web Scraping),
 -> os (Sistema Operacional) e,
