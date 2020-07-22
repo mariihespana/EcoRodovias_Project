@@ -1,0 +1,44 @@
+Presidente Dutra: Pista sentido SP - RIO com tráfego lento na pista Marginal. Obs: Em Guarulhos. km inicial: 226 / km final: 223
+14/07/2020 17:51
+Presidente Dutra: Pista sentido SP - RIO com tráfego lento na pista Marginal. Obs: Em São José dos Campos. km inicial: 148 / km final: 147
+14/07/2020 17:51
+Presidente Dutra: Pista sentido SP - RIO com tráfego lento na pista Expressa. Obs: Em Guarulhos. km inicial: 225 / km final: 223
+14/07/2020 17:50
+Presidente Dutra: Pista sentido SP - RIO com tráfego normal na pista Expressa. Obs: De Nova Iguaçu ao Rio de Janeiro. km inicial: 178 / km final: 163
+14/07/2020 17:16
+Presidente Dutra: Pista sentido RIO - SP com tráfego lento na pista Expressa. Obs: No Rio de Janeiro. km inicial: 164 / km final: 166
+14/07/2020 17:11
+Presidente Dutra: Pista sentido RIO - SP com tráfego lento na pista Marginal. Obs: No Rio de Janeiro. km inicial: 165 / km final: 167
+14/07/2020 17:11
+Presidente Dutra: Pista sentido SP - RIO com tráfego lento na pista Expressa. Obs: Em Nova Iguaçu. km inicial: 181 / km final: 179
+14/07/2020 17:11
+Presidente Dutra: Pista sentido RIO - SP com tráfego lento na pista Marginal. Obs: Em Nova Iguaçu. km inicial: 174 / km final: 176
+14/07/2020 17:11
+Presidente Dutra: Pista sentido RIO - SP com tráfego lento na pista Expressa. Obs: Em São João de Meriti. km inicial: 171 / km final: 177
+14/07/2020 17:11
+Presidente Dutra: Pista sentido SP - RIO com tráfego normal na pista Expressa. Obs: De São Paulo à Guarulhos. . km inicial: 231 / km final: 211
+14/07/2020 17:10
+Presidente Dutra: Pista sentido RIO - SP com tráfego normal na pista Expressa. Obs: De Guarulhos à São Paulo. . km inicial: 211 / km final: 231
+14/07/2020 17:10
+Presidente Dutra: Pista sentido RIO - SP com tráfego lento na pista Expressa. Obs: No Rio de Janeiro. km inicial: 163 / km final: 166
+14/07/2020 18:19
+Presidente Dutra: Pista sentido SP - RIO com tráfego lento na pista Marginal. Obs: Em Guarulhos. km inicial: 226 / km final: 223
+14/07/2020 17:51
+Presidente Dutra: Pista sentido SP - RIO com tráfego lento na pista Marginal. Obs: Em São José dos Campos. km inicial: 148 / km final: 147
+14/07/2020 17:51
+Presidente Dutra: Pista sentido SP - RIO com tráfego lento na pista Expressa. Obs: Em Guarulhos. km inicial: 225 / km final: 223
+14/07/2020 17:50
+Presidente Dutra: Pista sentido SP - RIO com tráfego normal na pista Expressa. Obs: De Nova Iguaçu ao Rio de Janeiro. km inicial: 178 / km final: 163
+14/07/2020 17:16
+Presidente Dutra: Pista sentido RIO - SP com tráfego lento na pista Marginal. Obs: No Rio de Janeiro. km inicial: 165 / km final: 167
+14/07/2020 17:11
+Presidente Dutra: Pista sentido SP - RIO com tráfego lento na pista Expressa. Obs: Em Nova Iguaçu. km inicial: 181 / km final: 179
+14/07/2020 17:11
+Presidente Dutra: Pista sentido RIO - SP com tráfego lento na pista Marginal. Obs: Em Nova Iguaçu. km inicial: 174 / km final: 176
+14/07/2020 17:11
+Presidente Dutra: Pista sentido RIO - SP com tráfego lento na pista Expressa. Obs: Em São João de Meriti. km inicial: 171 / km final: 177
+14/07/2020 17:11
+Presidente Dutra: Pista sentido SP - RIO com tráfego normal na pista Expressa. Obs: De São Paulo à Guarulhos. . km inicial: 231 / km final: 211
+14/07/2020 17:10
+Presidente Dutra: Pista sentido RIO - SP com tráfego normal na pista Expressa. Obs: De Guarulhos à São Paulo. . km inicial: 211 / km final: 231
+14/07/2020 17:10
