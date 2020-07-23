@@ -8,6 +8,6 @@ Obs.: Este é o primeiro projeto em Python que eu desenvolvo totalmente sozinha 
 
 -> Agradecimentos: 
 Agradeço ao Jhonatan de Souza do canal do youtube (DevAprender) pela iniciativa em ensinar pessoas a programar;
-Agradeço aos meus pais por acreditarem que eu sou capaz;
+Agradeço aos meus pais e ao meu namorado por acreditarem que eu sou capaz;
 Agradeço à Nathália K. por me dar a ideia de desenvolver esse projeto.
 
