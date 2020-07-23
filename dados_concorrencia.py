@@ -13,6 +13,7 @@ from selenium.webdriver.chrome.options import Options
 import openpyxl
 import openpyxl.worksheet.worksheet
 from openpyxl import load_workbook
+import time
 import os
 
 class novaDutra():
